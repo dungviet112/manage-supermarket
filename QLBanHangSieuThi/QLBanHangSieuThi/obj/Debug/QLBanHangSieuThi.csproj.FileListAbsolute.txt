@@ -1,0 +1,570 @@
+C:\Users\admin\source\repos\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe.config
+C:\Users\admin\source\repos\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe
+C:\Users\admin\source\repos\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.pdb
+C:\Users\admin\source\repos\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHome.resources
+C:\Users\admin\source\repos\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Form1.resources
+C:\Users\admin\source\repos\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Properties.Resources.resources
+C:\Users\admin\source\repos\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.exe
+C:\Users\admin\source\repos\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.pdb
+C:\Users\admin\source\repos\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fBanHang.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe.config
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.pdb
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.AssemblyReference.cache
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fBanHang.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHome.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Form1.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Properties.Resources.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.GenerateResource.cache
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.CoreCompileInputs.cache
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.exe
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.pdb
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fKhachHang.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fNhanVien.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe.config
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.pdb
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fBanHang.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHome.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fKhachHang.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fNhanVien.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Form1.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Properties.Resources.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.exe
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.pdb
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHoaDon.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe.config
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.pdb
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\EnvDTE.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\stdole.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.AssemblyReference.cache
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fBanHang.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHoaDon.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHome.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fKhachHang.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fNhanVien.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Form1.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Form2.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Properties.Resources.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.GenerateResource.cache
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.cache
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.compiled
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.CoreCompileInputs.cache
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.CopyComplete
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.exe
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.pdb
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\EnvDTE.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\stdole.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fReport.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.cache
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.compiled
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe.config
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.pdb
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\EnvDTE.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\stdole.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.MSXML.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.AssemblyReference.cache
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fBanHang.resources
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHoaDon.resources
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHome.resources
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fKhachHang.resources
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fNhanVien.resources
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Form1.resources
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fReport.resources
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fThongKe.resources
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Properties.Resources.resources
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.GenerateResource.cache
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.cache
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.compiled
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.CoreCompileInputs.cache
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.exe
+E:\learnonl\C sharp\baiTapLon\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.pdb
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe.config
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.pdb
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\EnvDTE.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\stdole.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.AssemblyReference.cache
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fBanHang.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHoaDon.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHome.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fKhachHang.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fNhanVien.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Form1.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fReport.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fThongKe.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Properties.Resources.resources
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.GenerateResource.cache
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.cache
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.compiled
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.CoreCompileInputs.cache
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.CopyComplete
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.exe
+C:\Users\Duydeptrai1102\Desktop\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.pdb
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe.config
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.pdb
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\EnvDTE.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\stdole.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.MSXML.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.AssemblyReference.cache
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fBanHang.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHome.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fKhachHang.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fNhanVien.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Form1.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fReport.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fThongKe.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Properties.Resources.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.SPBanChay.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.GenerateResource.cache
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.cache
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.compiled
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.CoreCompileInputs.cache
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.CopyComplete
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.exe
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.pdb
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHoaDonBan.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHoaDonNhap.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\EnvDTE.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\stdole.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.MSXML.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHoaDonBan.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHoaDonNhap.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fReport.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fThongKe.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.SPBanChay.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.cache
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.compiled
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.CopyComplete
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe.config
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.exe
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\QLBanHangSieuThi.pdb
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\EnvDTE.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\stdole.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fBanHang.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fDangKy.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHoaDonBan.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHoaDonNhap.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fHome.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fKhachHang.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fNhanVien.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Form1.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fReport.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fThongKe.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Properties.Resources.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.SPBanChay.resources
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.cache
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\RdlCompile.compiled
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.exe
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.pdb
+C:\Users\admin\Downloads\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fQLNguoiDung.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fDangKy.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fQLNguoiDung.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.FormReportHangHoa.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.fReportHDN.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.HDNhieuNhatNam.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.HDBoiNV.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.Top3KhachTheoQuy.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.FormReportNV.resources
+D:\C#\Code\QLBanHangSieuThi\QLBanHangSieuThi\obj\Debug\QLBanHangSieuThi.FormReportKH.resources
